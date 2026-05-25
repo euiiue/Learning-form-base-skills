@@ -1,4 +1,4 @@
-#Learning From Base Skills
+##Learning From Base Skills
 
 这个仓库用于保存个人 Codex/Claude skill。目前包含一个技能：
 
