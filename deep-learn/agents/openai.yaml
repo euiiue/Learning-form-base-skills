@@ -1,0 +1,7 @@
+interface:
+  display_name: "Deep Learn"
+  short_description: "Layered technical learning notes and Q&A"
+  default_prompt: "Use $deep-learn to turn what I just did into a layered technical learning note with Q&A."
+
+policy:
+  allow_implicit_invocation: true
