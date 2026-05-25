@@ -1,4 +1,4 @@
-#  Deep learn Skills
+#Learning from base Skills
 
 这个仓库用于保存个人 Codex/Claude skill。目前包含一个技能：
 
@@ -12,7 +12,7 @@
 - 你调试了一个问题，想知道背后的数学、控制、系统和工程原理。
 - 你遇到一个新术语，想从直觉、定义、公式、代码和基础知识逐层讲透。
 - 你希望把项目里的经验沉淀到 `docs/deep-learn/` 下面。
-- 你在做机器人、ROS、VR 遥操作、IK、CAN、ADB、嵌入式、控制系统或机器学习训练相关工作。
+  
 
 ## 目录结构
 
@@ -35,7 +35,7 @@ codex-skills/
 - `deep-learn/agents/openai.yaml`: Codex UI 元数据，包括显示名称、简短描述和默认 prompt。
 - `deep-learn/references/output-template.md`: 生成完整学习笔记时使用的 Markdown 模板。
 - `deep-learn/references/qa-rubric.md`: 互动问答时使用的评分和追问规则。
-- `deep-learn/references/robotics-examples.md`: 针对 ROS、VR 遥操作、IK、Piper、CAN、ADB、坐标系和关节方向调试的案例参考。
+- `deep-learn/references/robotics-examples.md`: 针对工作的案例参考。
 
 ## 安装到 Codex
 
@@ -107,13 +107,6 @@ docs/deep-learn/2026-05-25-joint5-orientation-axis-sign.md
 - 然后拆解相关的数学、物理、计算机、算法和控制原理。
 - 最后用问答检查是否真的理解。
 
-对于机器人项目，文档会特别关注：
-
-- 坐标系和单位。
-- ROS topic、节点、参数和频率。
-- IK、关节命令和驱动链路。
-- deadman、限速、限位、跳变拒绝等安全机制。
-- 无硬件验证和实机小步验证。
 
 ## 校验
 
