@@ -128,4 +128,3 @@ Skill is valid!
 - 长模板、案例和评分细则放到 `references/`。
 - 新增机器人项目经验时，优先补充 `references/robotics-examples.md`。
 - 如果只是某个项目的一次学习记录，应写到项目自己的 `docs/deep-learn/`，不要写进 skill 本体。
-- 上传 GitHub 前，确认没有包含本地密码、私有 IP、token 或真实硬件危险操作说明。
